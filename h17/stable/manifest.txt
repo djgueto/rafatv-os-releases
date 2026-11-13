@@ -1,10 +1,10 @@
 format=1
 model=h17
 channel=stable
-version=0.2.2
+version=0.2.3
 min_version=0.0.0
-package=rafatv-app-0.2.2-h17.tar.gz
-size=1053102
-sha256=8430ba1811b5330a15801541691240e4bede4383ec8ce3b8f4ba69972dea6471
-released=2026-11-12T17:38:40Z
-commit=f9b197dc32d8
+package=rafatv-app-0.2.3-h17.tar.gz
+size=1073595
+sha256=6175a91683040a4824eec1eddb0f71140e5e3ea63ec28f1ff3ab6a8783466eac
+released=2026-11-13T12:05:30Z
+commit=72b65430631a
