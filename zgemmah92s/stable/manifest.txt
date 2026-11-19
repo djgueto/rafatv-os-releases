@@ -1,0 +1,11 @@
+format=1
+model=zgemmah92s
+platform=hisi-mali
+channel=stable
+version=0.2.8
+min_version=0.0.0
+package=rafatv-app-0.2.8-zgemmah92s.tar.gz
+size=1080250
+sha256=f816f35aa584f64ccddf0f75c65f299bac3382343ef5bcd738a9eb6c05d28e67
+released=2026-11-19T19:12:37Z
+commit=498f6e8c333f
