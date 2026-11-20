@@ -1,0 +1,11 @@
+format=1
+model=h17
+platform=bcm-nxpl
+channel=beta
+version=0.2.9
+min_version=0.0.0
+package=rafatv-app-0.2.9-h17.tar.gz
+size=1081415
+sha256=96ff6fc0f33fb51336a48c9c4081c956fd5fbd6cd809aa9d46ef7048b945723a
+released=2026-11-20T10:59:05Z
+commit=109bff6a665f
